@@ -72,7 +72,7 @@ Verified the PHP installation using:
 php -v
 ```
 
-**Screenshot:** `screenshots/Screenshot 2026-08-07 225908.png`
+**Screenshot:** ![PHP Version](screenshots/Screenshot%202026-08-07%20230123.png)
 
 ---
 
@@ -84,7 +84,7 @@ Verified Composer installation using:
 composer -V
 ```
 
-**Screenshot:** `screenshots/Screenshot 2026-08-07 230123.png`
+**Screenshot:** ![Composer Version](screenshots/Screenshot%202026-08-07%20230123.png)
 
 ---
 
@@ -96,7 +96,7 @@ Verified Laravel installation using:
 php artisan --version
 ```
 
-**Screenshot:** `screenshots/Screenshot 2026-08-07 230304.png`
+**Screenshot:** ![Laravel Version](screenshots/Screenshot%202026-08-07%20230304.png)
 
 ---
 
@@ -108,7 +108,7 @@ Verified Git installation using:
 git --version
 ```
 
-**Screenshot:** `screenshots/Screenshot 2026-08-07 230359.png`
+**Screenshot:** ![Git Version](screenshots/Screenshot%202026-08-07%20230359.png)
 
 ---
 
@@ -116,7 +116,7 @@ git --version
 
 Verified MySQL installation.
 
-**Screenshot:** `screenshots/Screenshot 2026-08-07 230509.png`
+**Screenshot:** ![MySQL Version](screenshots/Screenshot%202026-08-07%20230509.png)
 
 ---
 
@@ -124,7 +124,7 @@ Verified MySQL installation.
 
 Opened the Laravel project in Visual Studio Code.
 
-**Screenshot:** `screenshots/Screenshot 2026-08-07 155716.png`
+**Screenshot:** ![Visual Studio Code](screenshots/Screenshot%202026-08-07%20155716.png)
 
 ---
 
@@ -136,7 +136,7 @@ Started the Laravel development server using:
 php artisan serve
 ```
 
-**Screenshot:** `screenshots/Screenshot 2026-08-07 160201.png`
+**Screenshot:** ![Laravel Development Server](screenshots/Screenshot%202026-08-07%20160201.png)
 
 ---
 
@@ -144,7 +144,7 @@ php artisan serve
 
 Modified the default Laravel homepage using a Blade template.
 
-**Screenshot:** `screenshots/Screenshot 2026-08-07 160500.png`
+**Screenshot:** ![Hello Laravel Homepage](screenshots/Screenshot%202026-08-07%20160500.png)
 
 ---
 
@@ -212,13 +212,14 @@ Verified the local and remote branches, synchronized the repository, and pushed 
 
 | Screenshot | Description |
 |------------|-------------|
-| screenshots/Screenshot 2026-08-07 230304.png | PHP version verification |
-| screenshots/Screenshot 2026-08-07 230123.png | Composer version verification |
-| screenshots/Screenshot 2026-08-07 230359.png | Git version verification |
-| screenshots/Screenshot 2026-08-07 230509.png | MySQL installation verification |
-| screenshots/Screenshot 2026-08-07 155716.png | Laravel project opened in Visual Studio Code |
-| screenshots/Screenshot 2026-08-07 230304.png | Laravel development server running |
-| screenshots/Screenshot 2026-08-07 160500.png | Customized Laravel homepage |
+| ![PHP Version](screenshots/Screenshot%202026-08-07%20225716.png) | PHP version verification |
+| ![Composer Version](screenshots/Screenshot%202026-08-07%20230123.png) | Composer version verification |
+| ![Laravel Version](screenshots/Screenshot%202026-08-07%20230304.png) | Laravel framework version verification |
+| ![Git Version](screenshots/Screenshot%202026-08-07%20230359.png) | Git version verification |
+| ![MySQL Version](screenshots/Screenshot%202026-08-07%20230509.png) | MySQL installation verification |
+| ![Visual Studio Code](screenshots/Screenshot%202026-08-07%20155716.png) | Laravel project opened in Visual Studio Code |
+| ![Laravel Development Server](screenshots/Screenshot%202026-08-07%20160201.png) | Laravel development server running |
+| ![Hello Laravel Homepage](screenshots/Screenshot%202026-08-07%20160500.png) | Customized Laravel homepage |
 
 ---
 
